@@ -1,0 +1,8 @@
+First Name - keshav
+Last Name - mithai
+Item 1 - Chips ($4)
+Item 2 - 4kg Milk ($20)
+Item 3 - Biscuits ($2)
+ Delivery - Thursday (8:00-10:00 am)
+Mode of Payment - Paytm
+

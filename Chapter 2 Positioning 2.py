@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from tkinter import * 
 
 root = Tk()
@@ -15,4 +16,23 @@ root.minsize(500, 500)
 root.maxsize(700, 700)
 
 label1.pack()
+=======
+from tkinter import * 
+
+root = Tk()
+
+label1 = Label(root, text = "Meow")
+
+
+# Used to set a default size of the window (width x height)
+root.geometry("500x500")
+
+# Used to set a minimum size (width, height)
+root.minsize(500, 500)
+
+# Used to set a maximum size (width, height)
+root.maxsize(700, 700)
+
+label1.pack()
+>>>>>>> fc6ade0 (Updates)
 root.mainloop()
